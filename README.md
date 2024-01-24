@@ -9,7 +9,13 @@ El repositorio contiene un EDA que analiza la estabilidad política de los Estad
 También se ha utilizado un "data set" del [Banco Mundial sobre el crecimiento del PIB(% anual](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?end=2015&start=1961) con el fin de analizar un posible vínculo entre la inestabilidad de la postcolonización y el crecimiento del PIB en los Estados africanos.
 
 Para realizar el análisis de los datos, se han empleado bibliotecas de Python utilizadas para análisis de datos y visualización:
+
 -NumPy
+
 -Pandas
--Seaborn
+
 -Matplotlib 
+
+-Seaborn
+
+-Plotly
