@@ -8,14 +8,10 @@ __
 El repositorio contiene un EDA que analiza la estabilidad política de los Estados africanos que surgen tras la descolonización (1949-1970). A partir del "data set"[Archigos](https://www.rochester.edu/college/faculty/hgoemans/data.htm), que incluye datos unificados sobre líderes en 188 países desde 1875 hasta 2015, se ha realizado un análisis de las formas de acceso y salida del poder de los líderes africanos, de la duración de los mandatos y la relación entre esta última y el año de inicio o el acceso/pérdida de poder.
 También se ha utilizado un "data set" del [Banco Mundial sobre el crecimiento del PIB(% anual](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?end=2015&start=1961) con el fin de analizar un posible vínculo entre la inestabilidad de la postcolonización y el crecimiento del PIB en los Estados africanos.
 
-Para realizar el análisis de los datos, se han empleado bibliotecas de Python utilizadas para análisis de datos y visualización:
+Para realizar el análisis de los datos, se han empleado bibliotecas de Python ([Documentación oficial](https://docs.python.org/3/)) utilizadas para análisis de datos y visualización:
 
--NumPy
+-NumPy [Documentación oficial](https://numpy.org/doc/stable/)
 
--Pandas
+-Pandas: [Documentación oficial](https://pandas.pydata.org/pandas-docs/stable/)
 
--Matplotlib 
-
--Seaborn
-
--Plotly
+-Matplotlib [Documentación oficial](https://matplotlib.org/stable/contents.html)
