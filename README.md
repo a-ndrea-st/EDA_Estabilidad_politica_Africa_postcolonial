@@ -16,13 +16,20 @@ Para realizar el análisis de los datos, se han empleado bibliotecas de Python (
 
 -Matplotlib [Documentación oficial](https://matplotlib.org/stable/contents.html)
 
+__
+
 
 El archivo Presentación_EDA es un ppt con la presentación de los resultados.
 
 El archivo Documentación utilizada detalla la documentación, tanto de herramientas y tecnologías, como literatura técnica.
 
 Dentro de la carpeta scr se encuentra el código, siguiendo la estructura:
+
 src/data: todos los archivos de datos utilizados en el analisis. 
+
 src/notebooks: contiene el notebook usado para pruebas.
+
 src/utils: contiene todos los modulos y funciones auxiliares creados para el desarrollo del proyecto.
+
 src/main.ipynb: contiene el notebook con todos los pasos de la analítica. 
+
